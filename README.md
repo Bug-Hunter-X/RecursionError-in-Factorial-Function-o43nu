@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive Python functions: the lack of a proper base case for negative inputs, leading to a RecursionError. The `bug.py` file shows the erroneous code. The solution, in `bugSolution.py`, adds handling for negative inputs and ensures termination of recursion.
